@@ -37,7 +37,8 @@ author_profile: true
 - ⚙️ 显存占用 <6GB，推理延迟 <1s，成功部署于扫描仪实时处理流水线  
 - 🧠 技术栈：PyTorch, ONNX, TensorRT  
 - 📅 时间：2024年5月  
-- 🔗 [部署演示链接（预留）](#)
+
+<iframe src="https://imgsli.com/MzM2MDQ2" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
 
 ---
 

@@ -38,7 +38,7 @@ author_profile: true
 - 🧠 技术栈：PyTorch, ONNX, TensorRT  
 - 📅 时间：2024年5月  
 
-<iframe src="https://imgsli.com/MzM2MDQ2" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://imgsli.com/MzM2MDQ2?embed=true" width="1224" height="1024" frameborder="0" allowfullscreen></iframe>
 
 ---
 

@@ -29,8 +29,8 @@ author_profile: true
 
 ---
 
-### 2. **轻量级图像去模糊系统**
-*公司：先临三维科技 | 角色：算法实习生*
+### 2. **轻量级图像去模糊系统**  
+*公司：先临三维科技 ｜ 角色：算法实习生*
 
 改进 NAFNet 架构，将 Self-Attention 替换为 Depthwise Convolution，实现去模糊网络的小型化与部署优化。
 
@@ -38,7 +38,41 @@ author_profile: true
 - 🧠 技术栈：PyTorch, ONNX, TensorRT  
 - 📅 时间：2024年5月  
 
-<iframe src="https://imgsli.com/MzM2MDQ2?embed=true" width="1224" height="1024" frameborder="0" allowfullscreen></iframe>
+💡 以下为真实场景中的去模糊效果展示（左右拖动查看）：
+
+<div style="display: grid; grid-template-columns: 1fr; gap: 24px; max-width: 1224px; margin: 0 auto;">
+
+  <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.12);">
+    <iframe 
+      src="https://imgsli.com/MzM2MDQ2?embed=true" 
+      width="100%" 
+      height="600" 
+      style="border: none;" 
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.12);">
+    <iframe 
+      src="https://imgsli.com/MzM2MDQ1?embed=true" 
+      width="100%" 
+      height="600" 
+      style="border: none;" 
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <div style="border-radius: 12px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,0.12);">
+    <iframe 
+      src="https://imgsli.com/MzM2MDQz?embed=true" 
+      width="100%" 
+      height="600" 
+      style="border: none;" 
+      allowfullscreen>
+    </iframe>
+  </div>
+
+</div>
 
 ---
 

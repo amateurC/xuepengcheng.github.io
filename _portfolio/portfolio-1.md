@@ -86,7 +86,10 @@ author_profile: true
 - 🌐 *研究亮点*：首次将单视图深度引导与3DGS结合用于交互编辑任务  
 - 📅 时间：2024年4月  
 - 🔗 [论文链接（预留）](#)
-
+<div style="text-align: center; margin-top: 16px;">
+  <img src="https://github.com/amateurC/xuepengcheng.github.io/blob/master/images/svgs_result.png" alt="SVGS示意图" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
+  <p style="font-size: 14px; color: #555;">图示：由单张输入图像生成并编辑的3D对象</p>
+</div>
 ---
 
 ### 4. **A Diffusion Model for Compositional 3D Tooth Generation**
@@ -97,7 +100,10 @@ author_profile: true
 - 🦷 *创新点*：融合点云表示、碰撞优化与多齿结构建模  
 - 📅 时间：2024年4月  
 - 🔗 [论文链接（预留）](#)
-
+<div style="text-align: center; margin-top: 16px;">
+  <img src="https://github.com/amateurC/xuepengcheng.github.io/blob/master/images/tooth_result.png" alt="3D牙齿生成结果图" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
+  <p style="font-size: 14px; color: #555;">图示：在物理约束下生成的多齿三维结构</p>
+</div>
 ---
 
 📄 如需查看完整简历，可点击：[下载简历 PDF](/files/算法实习生.pdf)  

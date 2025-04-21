@@ -87,7 +87,7 @@ author_profile: true
 - 📅 时间：2024年4月  
 - 🔗 [论文链接（预留）](#)
 <div style="text-align: center; margin-top: 16px;">
-  <img src="https://github.com/amateurC/xuepengcheng.github.io/blob/master/images/svgs_result.png" alt="SVGS示意图" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
+  <img src="https://github.com/amateurC/xuepengcheng.github.io/raw/master/images/svgs_result.png" alt="SVGS示意图" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
   <p style="font-size: 14px; color: #555;">图示：由单张输入图像生成并编辑的3D对象</p>
 </div>
 ---
@@ -101,7 +101,7 @@ author_profile: true
 - 📅 时间：2024年4月  
 - 🔗 [论文链接（预留）](#)
 <div style="text-align: center; margin-top: 16px;">
-  <img src="https://github.com/amateurC/xuepengcheng.github.io/blob/master/images/tooth_result.png" alt="3D牙齿生成结果图" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
+  <img src="https://github.com/amateurC/xuepengcheng.github.io/raw/master/images/tooth_result.png" alt="3D牙齿生成结果图" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
   <p style="font-size: 14px; color: #555;">图示：在物理约束下生成的多齿三维结构</p>
 </div>
 ---

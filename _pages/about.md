@@ -74,8 +74,6 @@ redirect_from:
 
 - **技术栈**：3DGS, PyTorch, COLMAP, Segment Anything, CLIP, Open3D, OpenCV, Blender
 
----
-
 ## 🧠 技术能力  
 
 ### 🔧 专业技能  

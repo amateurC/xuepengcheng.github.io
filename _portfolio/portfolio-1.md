@@ -82,7 +82,7 @@ author_profile: true
 基于 **全景相机数据** 实现大规模室内外场景的 3DGS 重建，提升重建精度与完整性（性能提升 20%+）。  
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV1BHeXzmErv&page=1"
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1wZh1zFEoX&page=1"
           frameborder="0" allowfullscreen
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
@@ -95,18 +95,6 @@ author_profile: true
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="//player.bilibili.com/player.html?bvid=BV1BHeXzmErv&page=1"
-          frameborder="0" allowfullscreen
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-</div>
-
----
-
-### 🦷 医学场景（三维牙齿扫描）
-在齿科扫描数据上应用 **3DGS 表达**，提升表面细节与真实感，支持后续三维建模与分析。  
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV1pK421H7Bd&page=1"
           frameborder="0" allowfullscreen
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>

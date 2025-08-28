@@ -91,7 +91,7 @@ author_profile: true
 ---
 
 ### 🏞️ 室外大场景（CityGaussian）
-使用自研管线实现 **≥1km² 城市级场景** 的 3DGS 重建，达到毫米级精度。  
+使用自研管线实现 **≥1km² 城市级场景** 的 无人机3DGS 重建。  
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="//player.bilibili.com/player.html?bvid=BV1BHeXzmErv&page=1"

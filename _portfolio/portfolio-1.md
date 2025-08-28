@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-以下是我在三维视觉与人工智能方向的代表性成果，涵盖工程项目与科研论文两大模块：
+以下是我在三维视觉与人工智能方向的代表性成果，涵盖工程项目、3DGS作品集与科研论文三大模块：
 
 ---
 
@@ -76,6 +76,44 @@ author_profile: true
 
 ---
 
+## 🌌 3DGS 作品集（3D Gaussian Splatting Portfolio）
+
+### 📍 全景相机场景重建
+基于 **全景相机数据** 实现大规模室内外场景的 3DGS 重建，提升重建精度与完整性（性能提升 20%+）。  
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1xX4y1X7f2&page=1"
+          frameborder="0" allowfullscreen
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+---
+
+### 🏞️ 室外大场景（CityGaussian）
+使用自研管线实现 **≥1km² 城市级场景** 的 3DGS 重建，达到毫米级精度。  
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//player.bilibili.com/player.html?bvid=BV19z421H7Ut&page=1"
+          frameborder="0" allowfullscreen
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+---
+
+### 🦷 医学场景（三维牙齿扫描）
+在齿科扫描数据上应用 **3DGS 表达**，提升表面细节与真实感，支持后续三维建模与分析。  
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1pK421H7Bd&page=1"
+          frameborder="0" allowfullscreen
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+---
+
 ## 📄 学术成果（Research Papers）
 
 ### 3. **SVGS: Single-View to 3D Object Editing via Gaussian Splatting**
@@ -90,6 +128,7 @@ author_profile: true
   <img src="https://github.com/amateurC/xuepengcheng.github.io/raw/master/images/svgs_result.png" alt="SVGS示意图" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
   <p style="font-size: 14px; color: #555;">图示：由单张输入图像生成并编辑的3D对象</p>
 </div>
+
 ---
 
 ### 4. **A Diffusion Model for Compositional 3D Tooth Generation**
@@ -104,6 +143,7 @@ author_profile: true
   <img src="https://github.com/amateurC/xuepengcheng.github.io/raw/master/images/tooth_result.png" alt="3D牙齿生成结果图" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
   <p style="font-size: 14px; color: #555;">图示：在物理约束下生成的多齿三维结构</p>
 </div>
+
 ---
 
 📄 如需查看完整简历，可点击：[下载简历 PDF](/files/算法实习生.pdf)  

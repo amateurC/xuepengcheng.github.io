@@ -90,7 +90,7 @@ author_profile: true
 
 ---
 
-### 🏞️ 室外大场景（CityGaussian）
+### 🏞️ 室外大场景
 使用自研管线实现 **≥1km² 城市级场景** 的 无人机3DGS 重建。  
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">

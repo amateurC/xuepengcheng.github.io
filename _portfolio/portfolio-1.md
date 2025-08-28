@@ -82,7 +82,7 @@ author_profile: true
 基于 **全景相机数据** 实现大规模室内外场景的 3DGS 重建，提升重建精度与完整性（性能提升 20%+）。  
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV1xX4y1X7f2&page=1"
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1BHeXzmErv&page=1"
           frameborder="0" allowfullscreen
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
@@ -94,7 +94,7 @@ author_profile: true
 使用自研管线实现 **≥1km² 城市级场景** 的 3DGS 重建，达到毫米级精度。  
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV19z421H7Ut&page=1"
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1BHeXzmErv&page=1"
           frameborder="0" allowfullscreen
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
